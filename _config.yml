@@ -1,11 +1,11 @@
 ### GENERAL SETTINGS ###
 
 # Site settings
-title: SOLID.
-description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
+title: 时代定制
+description: "这是个伟大的时代，互联网正在渗入到生活的方方面面。我们不生产产品，我们只是时代的搬运工。"
 analytics: #Google analytics code in the format XX-nnnnnnnn-n
 baseurl: "" #important: start with /
-url: "http://yourdomain.com"
+url: "http://www.definebytime.com"
 
 # Build settings
 markdown: kramdown
@@ -26,7 +26,7 @@ colors:  #in hex code if not noted else
 
 # Social networks usernames. Many more available: google-plus, flickr, linkedin, etc). Shown in footer.
 social:
-  - title: dribbble
+  - title: 2evening
     url:
   - title: facebook
     url:
@@ -40,11 +40,11 @@ social:
 # Postal address (add as many lines as necessary). Shown in footer and on Contact page.
 address:
   - lines: 
-    - Some Ave, 987,
-    - 23890, New York,
-    - United States.
-email: hello@solidtheme.com
-tel: +34 8493-4893
+    - 朝阳,
+    - 北京,
+    - 中国.
+email: admin@definebytime.com
+tel: +00 1024
 
 
 ### GENERAL DATA FOR VARIOUS LOCATIONS ###
@@ -100,7 +100,7 @@ clients:
     img: client04.png
     
 # Short text about your company. Shown in footer on every page and also separately on Home and Contact page.
-about: "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s."
+about: "这是个伟大的时代，互联网正在渗入到生活的方方面面。我们不生产产品，我们只是时代的搬运工。"
 
 # Testimonial content. Shown on Home and About page. 
 testimonial:
